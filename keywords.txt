@@ -1,0 +1,9 @@
+SimpleDelay	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+tick	KEYWORD2
+isRunning	KEYWORD2
+delayMillis	KEYWORD2
+startMillis	KEYWORD2
+currentMillis	KEYWORD2
+endMillis	KEYWORD2
